@@ -1,3 +1,11 @@
+zabbix-check-disk-performance (1.0) focal; urgency=low
+
+  * Removed python2 compatibility
+  * Clean up postinst
+  * Changed some file names to match the format of other zabbix-check packages
+
+ -- Sebastian Huebner <sebastian@hueb-ner.de>  Wed, 09 Dec 2020 14:33:43 +0100
+
 zabbix-check-disk-performance (0.1~dev4) xenial; urgency=medium
 
   * Add lisens
