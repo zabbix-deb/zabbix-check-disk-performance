@@ -1,9 +1,9 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 
-Copyright: 2020 Christoph Hueffelmann <chr@istoph.de>
-           2020 Sebastian Huebner <sebastian@hueb-ner.de>
+Copyright: 2016, 2021 Christoph Hueffelmann <chr@istoph.de>
+           2016, 2021 Sebastian Huebner <sebastian@hueb-ner.de>
 License: MIT
- Copyright (c) 2020 Christoph Hueffelmann, Sebastian Huebner.
+ Copyright (c) 2021 Christoph Hueffelmann, Sebastian Huebner.
 
  Permission is hereby granted, free of charge, to any person obtaining a copy of
  this software and associated documentation files (the "Software"), to deal in
